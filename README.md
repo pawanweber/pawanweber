@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pawan Weber</h1>
-<h3 align="center">A passionate PHP Web Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
+<h3 align="center">A Passionate PHP Web Developer from India</h3>
 
 <!-- <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> -->
 <br>
