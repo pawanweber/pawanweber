@@ -117,6 +117,6 @@ If you have a project idea or need help with PHP, feel free to reach out! I'm al
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&pause=2000&lines=Thanks+for+Visiting+%F0%9F%98%87;Let's+Connect+Together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&pause=1000&lines=Thanks+for+Visiting+%F0%9F%98%87;Let's+Connect+Together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
 </p>
 
