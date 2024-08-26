@@ -111,7 +111,7 @@ If you have a project idea or need help with PHP, feel free to reach out! I'm al
 - 🌐 **Website**: [https://pawanweber.github.io/](https://pawanweber.github.io/)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="50%">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="70%">
 </p>
 
 ---
