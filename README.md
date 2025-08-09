@@ -39,48 +39,14 @@
 
 ---
 
-### 📊 **GitHub Stats:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawanweber&show_icons=true&theme=radical" alt="pawanweber's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanweber&theme=radical" alt="pawanweber's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanweber&theme=radical&layout=compact" alt="pawanweber's most used languages" />
-</p>
-
----
-
-### 🏆 **GitHub Trophies:**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawanweber&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="pawanweber's GitHub Trophies"/>
-</p>
-
--->
----
-
 ### 💬 **Let's Collaborate:**
-If you have a project idea or need help with PHP, feel free to reach out! I'm always open to collaborating and learning together.
-
----
-
-### ⚡ **Fun Facts:**
-
-- 🎮 I'm a huge fan of video games.
-- 🌱 I love gardening and taking care of my plants.
-- 🚴‍♂️ I enjoy cycling on weekends.
+If you have a project idea or need help with PHP & Laravel or other tech, feel free to reach out! I'm always open to collaborating and creating together.
 
 ---
 
 ### 📫 **Reach Me At:**
 
 - 📧 **Email**: pawandev2309@gmail.com
-- 🌐 **Website**: [https://pawanweber.github.io/](https://pawanweber.github.io/)
 
 ---
 
