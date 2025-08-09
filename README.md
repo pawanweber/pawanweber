@@ -1,22 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">A Passionate PHP Web Developer from India</h3>
+<h3 align="center">A Passionate PHP Laravel Developer from India</h3>
 
 <!-- <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> -->
 <br>
 
-- 🔭 I’m currently working at [Pawan Weber](https://www.yourcompany.com)
-
-- 🌱 I’m currently learning **Laravel and React.js**
-
-- 👨‍💻 All of my projects are available at [https://pawanweber.github.io/](https://github.com/pawanweber/)
-
-- 📝 I regularly write articles on [https://medium.com/@pawanweber](https://medium.com/@pawanweber)
+- 🌱 I’m currently using **Laravel and React.js** for web developments.
 
 - 💬 Ask me about **PHP, Laravel, JavaScript, MySQL**
 
 - 📫 How to reach me **pawandev2309@gmail.com**
-
-- ⚡ Fun fact **I love to create interactive websites and explore new technologies!**
 
 ---
 
@@ -25,7 +17,6 @@
   <a href="https://linkedin.com/in/pawanweber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="pawanweber" height="20" width="30" /></a>
   <a href="https://instagram.com/pawanweber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="pawanweber" height="20" width="30" /></a>
   <a href="https://twitter.com/pawanweber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="pawanweber" height="20" width="30" /></a>
-  <a href="https://youtube.com/channel/UCXg23QJz3kg19Q0JKV2eosA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Vishnupriya_avi_ji" height="20" width="30" /></a>
 </p>
 
 ---
@@ -45,25 +36,6 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
   <img src="https://img.shields.io/badge/APIs-FE7A16?style=for-the-badge&logo=api&logoColor=white" alt="APIs" />
 </div>
-
-<!--
----
-
-### 🚀 **Projects:**
-
-- **[Project Name 1](https://github.com/pawanweber/project1)** - A brief description of the project.
-- **[Project Name 2](https://github.com/pawanweber/project2)** - A brief description of the project.
-- **[Project Name 3](https://github.com/pawanweber/project3)** - A brief description of the project.
-
----
-
-### 📝 **Latest Blog Posts:**
-
-- [How to Master PHP in 2024](https://medium.com/@pawanweber/how-to-master-php-in-2024)
-- [Understanding the Basics of Laravel](https://medium.com/@pawanweber/understanding-the-basics-of-laravel)
-- [10 Tips to Improve Your Web Development Skills](https://medium.com/@pawanweber/10-tips-to-improve-your-web-development-skills)
-
-➡️ [More blog posts...](https://medium.com/@pawanweber)
 
 ---
 
